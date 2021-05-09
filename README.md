@@ -1,2 +1,9 @@
 WIP 
-Some models to generate text 
+LSTM model to generate text 
+
+TODO:
+- Tensorboard Loss Monitoring
+- FastAPI + Swagger web interface + API
+- Docker packaging
+
+
