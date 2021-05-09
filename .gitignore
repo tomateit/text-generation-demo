@@ -3,3 +3,4 @@
 .vscode
 *_model/
 __pycache__
+notebooks/yttm_train_data.txt
