@@ -8,13 +8,12 @@ authors = ["Max Ermakov <maksim_ermakov@protonmail.com>"]
 python = "^3.8"
 fastapi = "^0.63.0"
 uvicorn = "^0.13.4"
-tensorflow = "^2.4.1"
 pandas = "^1.2.4"
-SQLAlchemy = "^1.4.14"
 tqdm = "^4.60.0"
 pyarrow = "^4.0.0"
 matplotlib = "^3.4.2"
 youtokentome = "^1.0.6"
+torch = "^1.8.1"
 
 [tool.poetry.dev-dependencies]
 
